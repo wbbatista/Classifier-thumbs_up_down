@@ -10,12 +10,13 @@
 * app.py  -  main file
 * exercicio1 - answers of exercicio1
 * requiriments.txt - all dependencies
+* resources.zip - Treined model with keras and Tensorflow
 
 # Install Docker
 
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
-# unzip resources.zip, Treined model with keras and Tensorflow
+# unzip resources.zip, 
 unzip resources.zip
 
 * if you do not have it installed, run: sudo apt-get install unzip
