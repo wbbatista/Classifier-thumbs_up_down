@@ -2,8 +2,8 @@
 * On Linux Ubuntu 18.04
 [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
-# Unzip resource.zip
-unzip resource.zip
+# unzip resources.zip
+unzip resources.zip
 
 * if you do not have it installed, run: sudo apt-get install unzip
 # create an image
