@@ -2,7 +2,7 @@
 * On Linux Ubuntu 18.04
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
-# unzip resources.zip
+# unzip resources.zip, Treined model with keras and Tensorflow
 unzip resources.zip
 
 * if you do not have it installed, run: sudo apt-get install unzip
@@ -22,4 +22,6 @@ sudo docker image rm -f demo_app
 * sudo docker rm -vf $(sudo docker ps -a -q)
 * sudo docker rmi -f $(sudo docker images -a -q)
 * sudo docker system prune -a --volumes
+
+
 
