@@ -2,6 +2,8 @@
 * On Linux Ubuntu 18.04
 [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
+# Unzip resource.zip
+unzip resource.zip
 # create an image
 sudo docker build --tag demo_app .
 
