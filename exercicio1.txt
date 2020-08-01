@@ -4,10 +4,26 @@ Considerando o seguinte problema real de resgate da marinha australiana: Airborn
 
 1.1 Se você fizesse parte de um pequeno time de desenvolvedores, quais técnicas ferramentas você recomendaria para resolver esses desafio e por que?
 
+  A Inteligência artificial veio para inovar, otimizar e ajudar a solucionar problemas que por muitas das vezes excedem a capacidade humana, o qual como o caso do problema de resgate viênciado pela marinha astraliana. Pensar na solução nem sempre é a tarefa mais dífícil, a partir do momento em que o problema é detectado é possível ter um brain storm e se pensar em N soluções, porém é necessário que se conheça de forma profunda o problema, para definir objetivos é preciso traçar as restrições.
+Após uma leitura e releitura do artigo em questão, é notavél que os algoritmos de IA citados tratam-se de métodos para reconhecimento e detecção de padões em imagens,nesse caso:
+- A primeira abordagem de solução são as redes neurais convolucionais (CNN), são algoritmos que apresentam uma accuracia melhor quando se trata de análise de imagens, além de demandar menos pre-processamento quando comparada a outros algoritmos para o mesmo propósito.
+Como se trata de um projeto muito complexo, onde o seu sucesso representa vidas salvas.
+minhas recomendações:
 
+Algoritmo baseado em R-CNN, Com Pytorch, Python e openCV. 
+
+Essa rede realiza a detecção em dois estágios. No primeiro, identifica um subconjunto de regiões (retangulos) em uma imagem que possa conter um objeto, no segundo estágio o objeto é classificado em cada região. Pode ser implementada utilizando Pytorch e Python. Pytorch é um framework de código aberto para acelerar o desencolvimento de soluções em machine learning, desde prótótipos a algoritmos robusto utilizados em produção. E em conjunto com a linguagem de programação Python esse desenvolvimento pode ser faciltado ainda mais, devido a compatibilidade e integração que está liguagem possui, além da vasta documentação é uma linguagem de alto nível de fácil entendimento e estrutura simplificada, e por fim a biblioteca Opencv para manipulação e preprocessamento das imagens.
+Numa abordagem mais prática, assim como já citado no artigo, é de suma importância variar o conjunto de treino, deixando-o mais generalista possível, para que ele possa se adaptar em diferentes condições do ambiente e assim aumentar a propabilidade de acerto.
 
 1.2 E se o o projeto fosse só pra avaliar a viabilidade técnica, com orçamento e prazo apertados pra montar uma demo funcional, usaria as mesmas técnicas e ferramentas?
 
+Sim. Além dos motivos citados acima, tratam-se de bibliotecas open source  de fácil integração, com uma gama de funções encapsuladas, prontas para uso. Atributos essências quando se trata de baixo custo e prazos reduzidos.
 
 
 1.3 Qual o maior empecilho, na sua opinião, que poderia impactar o início do projeto?
+
+A coleta de dados, montar um grande conjunto de dados generalista a primore é grande um desafio, o segundo maior desafio é hardware, treinar um modelo robusto exige um enorme conjunto de dados e por se tratar de imagens eleva ainda mais o custo computaciona, exigindo robustei na capacidade de processamento. 
+
+
+
+
