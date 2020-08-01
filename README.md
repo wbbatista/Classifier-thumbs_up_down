@@ -1,4 +1,4 @@
-# CNN Classificador thumbsup | tumbsdown
+# CNN Image Classifier thumbsup | tumbsdown
 * On Linux Ubuntu 18.04
 [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
