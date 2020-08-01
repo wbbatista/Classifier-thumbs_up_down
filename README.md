@@ -3,7 +3,7 @@
 
  
 # Files
-* amostras_para_testes *-*20 image samples 
+* amostras_para_testes *- 20 image samples 
 * st_images*-*images used on layout app streamlit
 * Dockfile    -    instructions to build a container image
 * app.mp4   -   video running the aplication 
