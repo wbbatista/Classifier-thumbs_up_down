@@ -3,14 +3,14 @@
 
  
 # Files
-* amostras_para_testes ._- 20 image samples 
-* st_images*-*images used on layout app streamlit
-* Dockfile    -    instructions to build a container image
-* app.mp4   -   video running the aplication 
-* app.py  -  main file
-* exercicio1 - answers of exercicio1
-* requiriments.txt - all dependencies
-* resources.zip - Treined model with keras and Tensorflow
+* amostras_para_testes _-_ 20 image samples 
+* st_images _-_images used on layout app streamlit
+* Dockfile _-_ instructions to build a container image
+* app.mp4 _-_ video running the aplication 
+* app.py _-_ main file
+* exercicio1 _-_ answers of exercise 1
+* requiriments.txt _-_ all dependencies
+* resources.zip _-_ Treined model with keras and Tensorflow
 
 # Install Docker
 
