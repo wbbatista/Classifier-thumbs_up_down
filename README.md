@@ -4,7 +4,8 @@
 
 # Unzip resource.zip
 unzip resource.zip
-if you do not have it installed, run: sudo apt-get install unzip
+
+* if you do not have it installed, run: sudo apt-get install unzip
 # create an image
 sudo docker build --tag demo_app .
 
