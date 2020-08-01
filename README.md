@@ -1,6 +1,6 @@
 # CNN Image Classifier thumbsup | tumbsdown
 * On Linux Ubuntu 18.04
-[Docker Install](https://docs.docker.com/engine/install/ubuntu/)
+* [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
 # unzip resources.zip
 unzip resources.zip
