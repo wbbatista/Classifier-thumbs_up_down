@@ -1,5 +1,19 @@
 # CNN Image Classifier thumbsup | tumbsdown
 * On Linux Ubuntu 18.04
+
+ 
+# Files
+* amostras_para_testes - 20 image samples 
+* st_images - images used on layout app streamlit
+* Dockfile - instructions to build a container image
+* app.mp4 - video exemplo running the aplication 
+* app.py - main file
+* exercicio1 - answers of exercicio1
+* requiriments.txt - all dependencies
+
+# ---------------------------------------------------------------------------
+# Install Docker
+
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
 # unzip resources.zip, Treined model with keras and Tensorflow
