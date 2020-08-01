@@ -3,15 +3,15 @@
 
  
 # Files
-* amostras_para_testes - 20 image samples 
-* st_images - images used on layout app streamlit
-* Dockfile - instructions to build a container image
-* app.mp4 - video exemplo running the aplication 
-* app.py - main file
+* amostras_para_testes    -    20 image samples 
+* st_images    -    images used on layout app streamlit
+* Dockfile    -    instructions to build a container image
+* app.mp4   -   video running the aplication 
+* app.py  -  main file
 * exercicio1 - answers of exercicio1
 * requiriments.txt - all dependencies
 
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------
 # Install Docker
 
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
