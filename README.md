@@ -11,7 +11,6 @@
 * exercicio1 - answers of exercicio1
 * requiriments.txt - all dependencies
 
-# ----------------------------------------------------------------------------------
 # Install Docker
 
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
