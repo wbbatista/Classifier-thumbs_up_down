@@ -1,0 +1,13 @@
+Exercício 1:
+Responda de forma sucinta e objetiva:   
+Considerando o seguinte problema real de resgate da marinha australiana: Airborne search and rescue with IA
+
+1.1 Se você fizesse parte de um pequeno time de desenvolvedores, quais técnicas ferramentas você recomendaria para resolver esses desafio e por que?
+
+
+
+1.2 E se o o projeto fosse só pra avaliar a viabilidade técnica, com orçamento e prazo apertados pra montar uma demo funcional, usaria as mesmas técnicas e ferramentas?
+
+
+
+1.3 Qual o maior empecilho, na sua opinião, que poderia impactar o início do projeto?
