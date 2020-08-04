@@ -26,7 +26,7 @@ sudo docker build --tag demo_app .
 # run image as a container
 sudo docker run -p 8501:8501 --privileged -v /dev/video0:/dev/video0  demo_app
 
-# only if you need to force stop of the process running
+# only if you need to stop the running process
 sudo docker rm --force demo_app
 
 # only if you need to remove image
