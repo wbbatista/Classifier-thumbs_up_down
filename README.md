@@ -15,20 +15,20 @@
 
 # Steps to run application in a docker
 
-## 1 Install Docker
+  ## 1 Install Docker
 
-* [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
+  * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
-## 2. unzip resources.zip, 
-unzip resources.zip
+  ## 2. unzip resources.zip, 
+  unzip resources.zip
 
-* if you do not have it installed, run: sudo apt-get install unzip
+  * if you do not have it installed, run: sudo apt-get install unzip
 
-## 3. create an image
-sudo docker build --tag demo_app .
+  ## 3. create an image
+  sudo docker build --tag demo_app .
 
-## 4. run image as a container
-sudo docker run -p 8501:8501 --privileged -v /dev/video0:/dev/video0  demo_app
+  ## 4. run image as a container
+  sudo docker run -p 8501:8501 --privileged -v /dev/video0:/dev/video0  demo_app
 
 # only if you need to stop the running process
 sudo docker rm --force demo_app
