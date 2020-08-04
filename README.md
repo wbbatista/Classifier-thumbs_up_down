@@ -4,7 +4,7 @@
  
 # Files
 * amostras_para_testes <b>-</b> 20 image samples 
-* st_image s<b>-</b> images used on layout app streamlit
+* st_images <b>-</b> images used on layout app streamlit
 * Dockfile <b>-</b> instructions to build a container image
 * app.mp4 <b>-</b> video running the application 
 * app.py <b>-</b> main file
