@@ -13,18 +13,21 @@
 * requiriments.txt <b>-</b> all dependencies
 * resources.zip <b>-</b> Treined model
 
-# Install Docker
+# Steps to run application in a docker
+
+## 1 Install Docker
 
 * [Docker Install](https://docs.docker.com/engine/install/ubuntu/)
 
-# unzip resources.zip, 
+## 2. unzip resources.zip, 
 unzip resources.zip
 
 * if you do not have it installed, run: sudo apt-get install unzip
-# create an image
+
+## 3. create an image
 sudo docker build --tag demo_app .
 
-# run image as a container
+## 4. run image as a container
 sudo docker run -p 8501:8501 --privileged -v /dev/video0:/dev/video0  demo_app
 
 # only if you need to stop the running process
