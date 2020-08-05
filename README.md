@@ -11,7 +11,7 @@
 * app.py <b>-</b> main file
 * exercicio1 <b>-</b> answers of exercise 1
 * requiriments.txt <b>-</b> all dependencies
-* resources.zip <b>-</b> Treined model
+* resources.zip <b>-</b> Trained model
 
 # Steps to run application in a docker
 
