@@ -3,7 +3,7 @@ numpy
 pillow
 pybase64
 opencv-python
-tensorflow==2.0.1
+tensorflow==2.0.3
 scikit-learn
 matplotlib
 Keras
